@@ -1,0 +1,25 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ymakhno",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "3.0.0",
+    "material-ui": "0.15.0",
+    "moment": "2.13.0",
+    "react": "15.2.0",
+    "react-dom": "15.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "6.9.0",
+    "babel-preset-react": "6.11.1",
+    "babelify": "7.3.0",
+    "envify": "3.4.1",
+    "minifyify": "7.3.3"
+  }
+}
